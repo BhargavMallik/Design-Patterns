@@ -61,15 +61,4 @@ Types of Behavioral Design Patterns:
 - **Template Method Pattern**
 - **Visitor Pattern**
 
----
-
-### Diagram Representation
-
-Below is a diagram summarizing the types of Design Patterns:
-
-![Design Patterns Diagram](https://prod-files-secure.s3.us-west-2.amazonaws.com/783f9e87-62ee-4775-bc2c-860838a0e921/8699992a-345e-41f0-9588-ea2f3e390ce3/image.png)
-
-**Fig 01: Design Patterns**
-
----
 
